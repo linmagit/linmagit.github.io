@@ -6,6 +6,8 @@
     {% include header.html %}
     {% include portfolio_grid.html %}
     {% include about.html %}
+    {% capture md_include %}{% include publications.md %}{% endcapture %}
+    {{ md_include | markdownify }}
 
     {% if site.contact == "static" %}
     {% include contact_static.html %}
