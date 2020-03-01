@@ -1,0 +1,12 @@
+
+    <!-- Publications Section -->
+    <section id="publications">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    {% capture md_include %}{% include publications.md %}{% endcapture %}
+                    {{ md_include | markdownify }}
+                </div>
+            </div>
+        </div>
+    </section>

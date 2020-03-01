@@ -107,13 +107,13 @@ header .intro-text .name {
 
 header .intro-text .bio {
     font-size: 1.25em;
-    font-weight: 300;
+    font-weight: 400;
 }
 
 header .intro-text .bio a:link {
     outline: 0;
     color: white;
-    font-weight: 500;
+    font-weight: 600;
 }
 
 header .intro-text .bio a:visited {
@@ -195,6 +195,18 @@ section h2 {
 section.success {
     color: #fff;
     background: #{{ site.color.primary }};
+    font-size: 20px;
+}
+
+section.success a:link {
+    outline: 0;
+    color: white;
+    font-weight: 600;
+}
+
+section.success a:visited {
+    outline: 0;
+    color: white;
 }
 
 @media(max-width:767px) {
