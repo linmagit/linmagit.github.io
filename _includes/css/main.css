@@ -198,6 +198,11 @@ section.success {
     font-size: 20px;
 }
 
+section.success h2 {
+    margin: 0;
+    font-size: 45px;
+}
+
 section.success a:link {
     outline: 0;
     color: white;
