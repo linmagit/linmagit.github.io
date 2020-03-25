@@ -1,6 +1,18 @@
 ## Publications
 ---
 
+* **Active Learning for ML Enhanced Database Systems**<br/>
+Lin Ma, Bailu Ding, Sudipto Das, Adith Swaminathan
+<br/>
+*SIGMOD 2020*
+\[to appear\]
+
+* **External vs. Internal: An Essay on Machine Learning Agents for Autonomous Database Management Systems**<br/>
+Andrew Pavlo, Matthew Butrovich, Ananya Joshi, Lin Ma, Prashanth Menon, Dana Van Aken, Lisa Lee, Ruslan Salakhutdinov
+<br/>
+*TCDE Bulletin 2019*
+[[pdf]](publications/2019.external.tcde-bulletin.pdf)
+
 * **Query-based Workload Forecasting for Self-Driving Database Management Systems**<br/>
 Lin Ma, Dana Van Aken, Ahmed Hefny, Gustavo Mezerhane, Andrew Pavlo, Geoffrey J. Gordon
 <br/>
