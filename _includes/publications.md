@@ -5,7 +5,7 @@
 Lin Ma, Bailu Ding, Sudipto Das, Adith Swaminathan
 <br/>
 *SIGMOD 2020*
-\[to appear\]
+[[pdf]](publications/2020.active.sigmod.pdf)
 
 * **External vs. Internal: An Essay on Machine Learning Agents for Autonomous Database Management Systems**<br/>
 Andrew Pavlo, Matthew Butrovich, Ananya Joshi, Lin Ma, Prashanth Menon, Dana Van Aken, Lisa Lee, Ruslan Salakhutdinov
