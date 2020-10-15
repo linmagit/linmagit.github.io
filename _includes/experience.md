@@ -21,6 +21,8 @@ Head Teaching Assistant [[Spring 2019]](https://15721.courses.cs.cmu.edu/spring2
 
 ### Professional Service
 ---
+* Program Committee: [[AIDB 2020]](https://sites.google.com/view/aidb2020/home/program-committee)
+
 * External Reviewer: [[DAPD 2019]](https://www.springer.com/journal/10619), [[SIGMOD Demo 2017]](http://sigmod2017.org/)
 
 * CMU CSD Faculty Search Committee, 2020

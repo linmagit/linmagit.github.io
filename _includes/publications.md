@@ -1,11 +1,17 @@
 ## Publications
 ---
 
+* **Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling**<br/>
+Prashanth Menon, Amadou Ngom, Lin Ma, Todd C. Mowry, Andrew Pavlo
+<br/>
+*VLDB 2020*
+
 * **Active Learning for ML Enhanced Database Systems**<br/>
 Lin Ma, Bailu Ding, Sudipto Das, Adith Swaminathan
 <br/>
 *SIGMOD 2020*
-[[pdf]](publications/2020.active.sigmod.pdf)
+[[pdf]](publications/2020.active.sigmod.pdf)[[slides]](slides/active-sigmod2020.pdf)
+[[poster]](posters/active-sigmod20-poster.pdf)[[video]](https://www.youtube.com/watch?v=80zYAwIpxZo)
 
 * **External vs. Internal: An Essay on Machine Learning Agents for Autonomous Database Management Systems**<br/>
 Andrew Pavlo, Matthew Butrovich, Ananya Joshi, Lin Ma, Prashanth Menon, Dana Van Aken, Lisa Lee, Ruslan Salakhutdinov
@@ -17,9 +23,9 @@ Andrew Pavlo, Matthew Butrovich, Ananya Joshi, Lin Ma, Prashanth Menon, Dana Van
 Lin Ma, Dana Van Aken, Ahmed Hefny, Gustavo Mezerhane, Andrew Pavlo, Geoffrey J. Gordon
 <br/>
 *SIGMOD 2018*
-[[pdf]](publications/2018.forecasting.sigmod.pdf)[[slides]](slides/forecasting-sigmod2018.pdf)[[code]](https://github
-.com
-/malin1993ml/QueryBot5000)[[poster]](posters/forecasting-sigmod18-poster.pdf)[[video]](https://www.youtube.com/watch?v=ZHAyrsVZfiU)
+[[pdf]](publications/2018.forecasting.sigmod.pdf)[[slides]](slides/forecasting-sigmod2018.pdf)
+[[code]](https://github.com/malin1993ml/QueryBot5000)
+[[poster]](posters/forecasting-sigmod18-poster.pdf)[[video]](https://www.youtube.com/watch?v=ZHAyrsVZfiU)
 
 * **Self-Driving Database Management Systems**<br/>
 Andrew Pavlo, Gustavo Angulo, Joy Arulraj, Haibin Lin, Jiexi Lin, Lin Ma, Prashanth
