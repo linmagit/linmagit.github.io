@@ -5,7 +5,7 @@ url: https://www.cs.cmu.edu
 baseurl: /~malin199
 description: "PhD Student at Carnegie Mellon University working on Self-Driving Databases."
 # keywords: "your keywords, separated by commas"
-# bio: "Web Developer - Graphic Artist - User Experience Designer"
+# skills: "Web Developer - Graphic Artist - User Experience Designer"
 meta_author: Ma Lin
 
 # Google webmaster tools
@@ -62,3 +62,11 @@ address:
 # Build settings
 markdown: kramdown
 permalink: pretty
+
+#for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      permalink: ""
