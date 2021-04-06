@@ -40,7 +40,7 @@
   
 * **Efficiently Leveraging B-Instances for Query Plan Predictions**
   <br/>
-  Microsoft Research, August 2018
+  *Microsoft Research*, August 2018
   
 * **Query-based Workload Forecasting for Self-Driving DBMSs**
   <br/>
