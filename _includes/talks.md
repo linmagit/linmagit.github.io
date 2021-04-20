@@ -7,13 +7,15 @@
   <br/>
   *Harvard University*, April 30, 2021 (**Upcoming**)
   <br/>
-  *Columbia University*, April 13, 2021 (**Upcoming**)
+  *Columbia University*, April 13, 2021
   <br/>
-  *Stanford University* (MLSys Seminar), April 8, 2021 (**Upcoming**)
+  *Stanford University* (MLSys Seminar), April 8, 2021
+  [[video]](https://www.youtube.com/watch?v=sY1c7qqQeuA)
   <br/>
-  *Oracle*, April 6, 2021 (**Upcoming**)
+  *Oracle*, April 6, 2021
   <br/>
   *Carnegie Mellon University*, March 22, 2021
+  [[video]](https://www.youtube.com/watch?v=YqW9Pq5488s)
   <br/>
   *Centrum Wiskunde & Informatica*, March 19, 2021
   <br/>
