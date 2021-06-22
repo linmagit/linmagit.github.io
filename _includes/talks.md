@@ -3,9 +3,9 @@
 
 * **NoisePage:The Self-Driving Database Management System**
   <br/>
-  *Facebook*, June 4, 2021 (**Upcoming**)
+  *Facebook*, June 4, 2021
   <br/>
-  *Harvard University*, April 30, 2021 (**Upcoming**)
+  *Harvard University*, May 28, 2021
   <br/>
   *Columbia University*, April 13, 2021
   <br/>
@@ -48,27 +48,27 @@
   <br/>
   *SIGMOD*, June 2018
   <br/>
-  *Microsoft Research*, May 2018.
+  *Microsoft Research*, May 2018
   <br/>
-  *PDL Retreat*, October 2017.
+  *PDL Retreat*, October 2017
   
 * **Larger-than-Memory Data Management on Modern Storage Hardware for In-Memory
 OLTP Database Systems**
   <br/>
-  *SIGMOD*, June 2016.
+  *SIGMOD*, June 2016
   
 * **The Self-Driving DBMS**
   <br/>
-  *PDL Retreat*, October 2016.
+  *PDL Retreat*, October 2016
   
 * **Multi-Level Anti-Caching for NVM+SSD in H-Store**
   <br/>
-  *PDL Retreat*, October 2015.
+  *PDL Retreat*, October 2015
   
 * **Finalist Presentation of Programming Contest**
   <br/>
-  *SIGMOD*, June 2014.
+  *SIGMOD*, June 2014
   
 * **Using Less to Do More With Anti-Caching in OLTP Database Systems**
   <br/>
-  *Carnegie Mellon University*, August 2014.
+  *Carnegie Mellon University*, August 2014

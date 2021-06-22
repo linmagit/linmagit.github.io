@@ -6,6 +6,11 @@
 Wan Shen Lim, Prashanth Menon, Andrew Pavlo
 <br/>
 *SIGMOD 2021*
+[[pdf]](publications/2021.mb2.sigmod.pdf)
+[[short video]](https://www.youtube.com/watch?v=W0uz9l6iHK8)
+[[long video]](https://www.youtube.com/watch?v=7HRcDTxXBX8&list=PL3xUNnH4TdbsfndCMn02BqAAgGB0z7cwq)
+[[code]](https://github.com/cmu-db/noisepage/tree/master/src/self_driving)
+
 
 * **Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in 
 Database Management Systems**<br/>
