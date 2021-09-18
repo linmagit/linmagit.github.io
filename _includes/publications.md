@@ -11,6 +11,13 @@ Wan Shen Lim, Prashanth Menon, Andrew Pavlo
 [[long video]](https://www.youtube.com/watch?v=7HRcDTxXBX8&list=PL3xUNnH4TdbsfndCMn02BqAAgGB0z7cwq)
 [[code]](https://github.com/cmu-db/noisepage/tree/master/src/self_driving)
 
+* **Make Your Database System Dream of Electric Sheep: Towards Self-Driving Operation**<br/>
+Andrew Pavlo, Matthew Butrovich, ***Lin Ma***, Prashanth Menon, Wan Shen Lim, Dana Van Aken, William Zhang
+<br/>
+*VLDB 2021*
+[[pdf]](publications/2021.dream.vldb.pdf)
+
+
 * **Filter Representation in Vectorized Query Execution**<br/>
 Amadou Ngom, Prashanth Menon, Matthew Butrovich, ***Lin Ma***, Wan Shen Lim, Todd C Mowry, Andrew Pavlo
 <br/>
@@ -28,18 +35,18 @@ Wuwen Wang, Yao Yu, William Zhang
 *CIDR 2021*
 [[pdf]](publications/2021.transaction.cidr.pdf)
 
-* **Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling**<br/>
-Prashanth Menon, Amadou Ngom, ***Lin Ma***, Todd C. Mowry, Andrew Pavlo
-<br/>
-*VLDB 2020*
-[[pdf]](publications/2020.pcq.vldb.pdf)
-
 * **Active Learning for ML Enhanced Database Systems**<br/>
 ***Lin Ma***, Bailu Ding, Sudipto Das, Adith Swaminathan
 <br/>
 *SIGMOD 2020*
 [[pdf]](publications/2020.active.sigmod.pdf)[[slides]](slides/active-sigmod2020.pdf)
 [[poster]](posters/active-sigmod20-poster.pdf)[[video]](https://www.youtube.com/watch?v=80zYAwIpxZo)
+
+* **Permutable Compiled Queries: Dynamically Adapting Compiled Queries without Recompiling**<br/>
+Prashanth Menon, Amadou Ngom, ***Lin Ma***, Todd C. Mowry, Andrew Pavlo
+<br/>
+*VLDB 2020*
+[[pdf]](publications/2020.pcq.vldb.pdf)
 
 * **External vs. Internal: An Essay on Machine Learning Agents for Autonomous Database Management Systems**<br/>
 Andrew Pavlo, Matthew Butrovich, Ananya Joshi, ***Lin Ma***, Prashanth Menon, Dana Van Aken, Lisa Lee, Ruslan 

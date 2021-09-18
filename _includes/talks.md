@@ -1,7 +1,7 @@
 ## Talks
 ---
 
-* **NoisePage:The Self-Driving Database Management System**
+* **NoisePage: The Self-Driving Database Management System**
   <br/>
   *Facebook*, June 4, 2021
   <br/>
