@@ -11,6 +11,12 @@ Wan Shen Lim, Prashanth Menon, Andrew Pavlo
 [[long video]](https://www.youtube.com/watch?v=7HRcDTxXBX8&list=PL3xUNnH4TdbsfndCMn02BqAAgGB0z7cwq)
 [[code]](https://github.com/cmu-db/noisepage/tree/master/src/self_driving)
 
+* **Filter Representation in Vectorized Query Execution**<br/>
+Amadou Ngom, Prashanth Menon, Matthew Butrovich, ***Lin Ma***, Wan Shen Lim, Todd C Mowry, Andrew Pavlo
+<br/>
+*DAMON 2021*
+[[pdf]](publications/2021.filter.damon.pdf)
+
 
 * **Everything is a Transaction: Unifying Logical Concurrency Control and Physical Data Structure Maintenance in 
 Database Management Systems**<br/>

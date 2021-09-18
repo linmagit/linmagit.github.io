@@ -31,6 +31,10 @@
   <br/>
   *Brown University*, January 27, 2021
 
+* **MB2: Decomposed behavior modeling for self-driving database management systems**
+  <br/>
+  *SIGMOD*, June 2021
+
 
 * **Active Learning for ML Enhanced Database Systems**
   <br/>
