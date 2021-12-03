@@ -2,6 +2,8 @@
 ---
 
 * **NoisePage: The Self-Driving Database Management System**
+  <br/>*Ahana*, October 19, 2021
+  <br/>*University of California, San Diego*, October 6, 2021
   <br/>
   *Facebook*, June 4, 2021
   <br/>
