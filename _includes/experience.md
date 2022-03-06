@@ -24,8 +24,10 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
 
 ### Professional Service
 ---
+* Program Committee --
+  [[VLDB 2023]](http://vldb.org/2023/?review-board)
 * Web/Information Chair and Program Committee --
-  [SIGMOD 2023]
+  [[SIGMOD 2023]](https://2023.sigmod.org/org_conference_officers.shtml)
 * Program Committee --
   [[VLDB 2022]](http://vldb.org/2022/?review-board)
 * Program Committee --

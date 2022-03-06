@@ -1,6 +1,11 @@
 ## Publications
 ---
 
+* **Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems**<br/>
+Matthew Butrovich, Wan Shen Lim , ***Lin Ma***, John Rollinson, William Zhang, Yu Xia, Andrew Pavlo
+<br/>
+*SIGMOD 2022*
+
 * **MB2: Decomposed Behavior Modeling for Self-Driving Database Management Systems**<br/>
 ***Lin Ma***, William Zhang, Jie Jiao, Wuwen Wang, Matthew Butrovich,
 Wan Shen Lim, Prashanth Menon, Andrew Pavlo
