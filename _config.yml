@@ -1,7 +1,7 @@
 # Site settings
 title: Lin Ma
 email: linmacse@umich.edu
-url: https://malin1993ml.github.io
+url: https://linmagit.github.io
 baseurl:
 description: "PhD Student at Carnegie Mellon University working on Self-Driving Databases."
 # keywords: "your keywords, separated by commas"
@@ -48,7 +48,7 @@ social:
   - title: twitter
     url: https://twitter.com/Lin_Ma_
   - title: github
-    url: https://github.com/malin1993ml
+    url: https://github.com/linmagit
 
 # Postal address (add as many lines as necessary)
 address:
