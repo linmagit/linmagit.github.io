@@ -1,8 +1,8 @@
 # Site settings
 title: Lin Ma
-email: lin.ma@cs.cmu.edu
+email: linmacse@umich.edu
 url: https://malin1993ml.github.io
-baseurl: /freelancer-theme
+baseurl:
 description: "PhD Student at Carnegie Mellon University working on Self-Driving Databases."
 # keywords: "your keywords, separated by commas"
 # skills: "Web Developer - Graphic Artist - User Experience Designer"
@@ -42,7 +42,7 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: envelope
-    url: mailto:lin.ma@cs.cmu.edu
+    url: mailto:linmacse@umich.edu
   - title: google-scholar
     url: https://scholar.google.com/citations?user=UU9gkwEAAAAJ&hl=en
   - title: twitter
@@ -52,8 +52,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: "Email: lin.ma (at) cs.cmu.edu"
-  - line: "Location: GHC 4111, 5000 Forbes Avenue"
+  - line: "Email: linmacse (at) umich.edu"
+  #- line: "Location: GHC 4111, 5000 Forbes Avenue"
 
 # Credits content
 # credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap
