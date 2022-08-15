@@ -1,10 +1,21 @@
 ## Talks
 ---
 
+* **Putting Your Database on Autopilot: Self-Driving Database Management Systems**
+  <br/>*Google*, June 9, 2022
+  <br/>*Microsoft Research*, March 29, 2022
+  <br/>*University of Michigan, Ann Arbor*, March 22, 2022
+  <br/>*IBM Research*, March 10, 2022
+  <br/>*University of Maryland, College Park*, March 7, 2022
+  <br/>*Columbia University*, March 2, 2022
+  <br/>*Northwestern University*, February 23, 2022
+  <br/>*Oracle Labs*, February 21, 2022
+
 * **NoisePage: The Self-Driving Database Management System**
   <br/>*ByteDance*, December 13, 2021
   <br/>*Ahana*, October 19, 2021
   <br/>*University of California, San Diego*, October 6, 2021
+  [[video]](https://www.youtube.com/watch?v=2rvv_cBK0uY)
   <br/>
   *Facebook*, June 4, 2021
   <br/>

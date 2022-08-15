@@ -2,14 +2,20 @@
 
 ### Working
 ---
+* **(Incoming) Assistant Professor**<br/>
+***University of Michigan, Ann Arbor***, August 2023 - 
 
-* **Microsoft Research**<br/>
-Research Intern in 
-Data Management
-, Exploration and Mining
+* **Software Engineer**<br/>
+***Databricks***, July 2022 - August 2023
+
+* **Post Doctoral Fellow**<br/>
+***Carnegie Mellon University***, September 2021 - July 2022
+
+* **Research Intern**<br/>
+***Microsoft Research***, Data Management, Exploration and Mining
 ([[DMX]](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/))
 Group,
-Summer 2018
+May 2018 - August 2018
 
 ### Teaching
 ---
