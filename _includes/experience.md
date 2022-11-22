@@ -30,6 +30,8 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
 
 ### Professional Service
 ---
+* Program Committee --
+  [[SIGMOD 2024]](https://2024.sigmod.org/org_sigmod_pc.shtml)
 * Web/Information Chair and Program Committee --
   [[SIGMOD 2023]](https://2023.sigmod.org/org_conference_officers.shtml)
 * Program Committee --
