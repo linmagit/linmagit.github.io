@@ -2,7 +2,7 @@
 
 ### Working
 ---
-* **(Incoming) Assistant Professor**<br/>
+* **Assistant Professor**<br/>
 ***University of Michigan, Ann Arbor***, August 2023 -- 
 
 * **Software Engineer**<br/>
