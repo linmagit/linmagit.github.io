@@ -1,8 +1,8 @@
 # Site settings
 title: Lin Ma
 email: linmacse@umich.edu
-url: https://linmagit.github.io
-baseurl:
+url: https://web.eecs.umich.edu
+baseurl: /~linmacse
 description: "PhD Student at Carnegie Mellon University working on Self-Driving Databases."
 # keywords: "your keywords, separated by commas"
 # skills: "Web Developer - Graphic Artist - User Experience Designer"
