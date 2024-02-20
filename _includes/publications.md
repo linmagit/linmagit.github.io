@@ -1,5 +1,12 @@
 ## Publications
 ---
+* **Database gyms**<br/>
+Wan Shen Lim, Matthew Butrovich, William Zhang, Andrew Crotty, ***Lin Ma***, Peijing Xu, Johannes
+Gehrke, and Andrew Pavlo
+<br/>
+*CIDR 2023*
+[[pdf]](publications/2023.gym.cidr.pdf)
+
 
 * **Tastes Great! Less Filling! High Performance and Accurate Training Data Collection for Self-Driving Database Management Systems**<br/>
 Matthew Butrovich, Wan Shen Lim , ***Lin Ma***, John Rollinson, William Zhang, Yu Xia, Andrew Pavlo

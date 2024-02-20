@@ -2,6 +2,7 @@
 ---
 
 * **Putting Your Database on Autopilot: Self-Driving Database Management Systems**
+  <br/>*Cornell University*, September 26, 2023
   <br/>*Google*, June 9, 2022
   <br/>*Microsoft Research*, March 29, 2022
   <br/>*University of Michigan, Ann Arbor*, March 22, 2022
