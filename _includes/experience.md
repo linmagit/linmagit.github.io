@@ -12,13 +12,15 @@
 ***Carnegie Mellon University***, September 2021 -- July 2022
 
 * **Research Intern**<br/>
-***Microsoft Research***, Data Management, Exploration and Mining
-([[DMX]](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/))
+***Microsoft Research***, Data Management, Exploration, and Mining
 Group,
 May 2018 -- August 2018
 
 ### Teaching
 ---
+* **UMich EECS 484 Database Management Systems**<br/>
+Instructor [[Fall 2024]](https://docs.google.com/document/d/1N0hDwEX-dU8p83fZznHSWXEhZB2X16THmSrY_jMkaEE/edit?usp=sharing)
+
 * **UMich EECS 484 Database Management Systems**<br/>
 Instructor [[Winter 2024]](https://docs.google.com/document/d/1JK6_nmwkouMnU3gtD9AF085hR_LhPKIL1bVPzRAS8MA/edit?usp=sharing)
 
@@ -48,6 +50,7 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
   [[2025]](http://vldb.org/2025/?review-board)
 * Program Committee -- CIDR
   [[2024]](https://www.cidrdb.org/cidr2024/officers.html)
+  [[2025]](https://www.cidrdb.org/cidr2025/officers.html)
 * Web/Information Chair -- SIGMOD
   [[2023]](https://2023.sigmod.org/org_conference_officers.shtml)
 * Program Committee -- SMDB
@@ -59,6 +62,7 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
 * External Reviewer -- SIGMOD Demo [[2017]](http://sigmod2017.org/)
 
 #### To the University
+* UMich CSE PhD Admissions Committee -- 2024
 * UMich CSE PhD Admissions Committee -- 2023
 * CMU CSD Faculty Search Committee -- 2020
 * CMU CSD MS Admissions Committee -- 2018

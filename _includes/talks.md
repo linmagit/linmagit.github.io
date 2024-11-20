@@ -1,6 +1,16 @@
 ## Talks
 ---
 
+* **Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated Large-Scale Data Analytics**
+  <br/>*HEAVY.AI*, November 15, 2024
+  <br/>*Meta*, November 1, 2024
+  <br/>*Microsoft Gray Systems Lab*, October 22, 2024
+  <br/>*Voltron Data*, October 15, 2024
+
+
+* **Self-Driving Databases and the Relevant Research Forefront**
+  <br/>*Salesforce* (Distinguished AI Speaker Series), April 1, 2024
+
 * **Putting Your Database on Autopilot: Self-Driving Database Management Systems**
   <br/>*Cornell University*, September 26, 2023
   <br/>*Google*, June 9, 2022

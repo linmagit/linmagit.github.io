@@ -1,6 +1,19 @@
 ## Publications
 ---
-* **Database gyms**<br/>
+* **Hit the Gym: Accelerating Query Execution to efficiently Bootstrap Behavior Models for Self-Driving
+Database Management Systems**<br/>
+Wan Shen Lim, ***Lin Ma***, William Zhang, Matthew Butrovich, Samuel Arch, and Andrew Pavlo
+<br/>
+*VLDB 2024*
+[[pdf]](publications/2024.gym.vldb.pdf)
+
+* **Tables as Texts or Images: Evaluating the Table Reasoning Ability of LLMs and MLLMs**<br/>
+Naihao Deng, Zhenjie Sun, Ruiqi He, Aman Sikka, Yulong Chen, ***Lin Ma***, Yue Zhang, and Rada Mihalcea
+<br/>
+*ACL Findings 2024*
+[[pdf]](publications/2024.tables.findings-acl.pdf)
+
+* **Database Gyms**<br/>
 Wan Shen Lim, Matthew Butrovich, William Zhang, Andrew Crotty, ***Lin Ma***, Peijing Xu, Johannes
 Gehrke, and Andrew Pavlo
 <br/>
