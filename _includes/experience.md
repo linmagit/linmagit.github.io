@@ -18,6 +18,9 @@ May 2018 -- August 2018
 
 ### Teaching
 ---
+* **UMich EECS 584 Advanced Database Management Systems**<br/>
+Instructor [[Winter 2025]](https://www.eecs.umich.edu/courses/cse584/)
+
 * **UMich EECS 484 Database Management Systems**<br/>
 Instructor [[Fall 2024]](https://docs.google.com/document/d/1N0hDwEX-dU8p83fZznHSWXEhZB2X16THmSrY_jMkaEE/edit?usp=sharing)
 
@@ -25,7 +28,7 @@ Instructor [[Fall 2024]](https://docs.google.com/document/d/1N0hDwEX-dU8p83fZznH
 Instructor [[Winter 2024]](https://docs.google.com/document/d/1JK6_nmwkouMnU3gtD9AF085hR_LhPKIL1bVPzRAS8MA/edit?usp=sharing)
 
 * **UMich EECS 584 Advanced Database Management Systems**<br/>
-Instructor [[Fall 2023]](https://www.eecs.umich.edu/courses/eecs584/)
+Instructor [[Fall 2023]](https://www.eecs.umich.edu/courses/cse584/archive/fall2023/)
 
 * **CMU 15-445/645 Database Systems**<br/>
 Instructor [[Fall 2021]](https://15445.courses.cs.cmu.edu/fall2021/)

@@ -1,5 +1,17 @@
 ## Publications
 ---
+* **Vortex: Overcoming memory capacity limitations in gpu-accelerated large-scale data analytics**<br/>
+Yichao Yuan, Advait Iyer, ***Lin Ma***, and Nishil Talati
+<br/>
+*VLDB 2025*
+
+* **Scompression: Enhancing database knob tuning eﬀiciency through slice-based
+oltp workload compression**<br/>
+Baoqing Cai, Yu Liu, ***Lin Ma***, Pingqi Huang, Bingcheng Lian, Ke Zhou, Jia Yuan, Jie Yang, Xiaofan
+Cai, and Peijun Wu
+<br/>
+*VLDB 2025*
+
 * **Hit the Gym: Accelerating Query Execution to efficiently Bootstrap Behavior Models for Self-Driving
 Database Management Systems**<br/>
 Wan Shen Lim, ***Lin Ma***, William Zhang, Matthew Butrovich, Samuel Arch, and Andrew Pavlo
