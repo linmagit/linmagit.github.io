@@ -62,6 +62,8 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
   [[2024]](https://www.cidrdb.org/cidr2024/officers.html)
   [[2025]](https://www.cidrdb.org/cidr2025/officers.html)
   [[2026]](https://www.cidrdb.org/cidr2026/officers.html)
+* Panelist -- NSF CISE/IIS Division
+  2025
 * Web/Information Chair -- SIGMOD
   [[2023]](https://2023.sigmod.org/org_conference_officers.shtml)
 * Program Committee -- SMDB
