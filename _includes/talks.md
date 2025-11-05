@@ -2,6 +2,12 @@
 ---
 
 * **Vortex: Overcoming Memory Capacity Limitations in GPU-Accelerated Large-Scale Data Analytics**
+  <br/>*Googl*e, October 10, 2025
+  <br/>*Databricks*, October 9, 2025
+  <br/>*University of Calibornia, Berkeley* (Data Systems and Foundations Seminar), October 8, 2025
+  <br/>*VLDB*, September 3, 2025
+  <br/>*Boston University*, May 8, 2025
+  <br/>*Massachusetts Institute of Technology*, May 7, 2025
   <br/>*HEAVY.AI*, November 15, 2024
   <br/>*Meta*, November 1, 2024
   <br/>*Microsoft Gray Systems Lab*, October 22, 2024

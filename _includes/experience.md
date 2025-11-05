@@ -18,6 +18,9 @@ May 2018 -- August 2018
 
 ### Teaching
 ---
+* **UMich EECS 484 Database Management Systems**<br/>
+Instructor [[Fall 2025]](https://umich.instructure.com/courses/782844)
+
 * **UMich EECS 584 Advanced Database Management Systems**<br/>
 Instructor [[Winter 2025]](https://www.eecs.umich.edu/courses/cse584/)
 
@@ -42,10 +45,14 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
 ### Service
 ---
 ####  To the Profession 
+* Junior Researcher Symposium Co-Chair -- SIGMOD
+  [[2027]](https://2027.sigmod.org/org_conference_officers.shtml)
 * Program Committee -- SIGMOD
   [[2023]](https://2023.sigmod.org/org_sigmod_pc.shtml)
   [[2024]](https://2024.sigmod.org/org_sigmod_pc.shtml)
   [[2025]](https://2025.sigmod.org/org_sigmod_pc.shtml)
+  [[2026]](https://2026.sigmod.org/org_sigmod_pc.shtml)
+  [[2027]](https://2027.sigmod.org/org_sigmod_pc.shtml)
 * Program Committee -- VLDB
   [[2022]](http://vldb.org/2022/?review-board)
   [[2023]](http://vldb.org/2023/?review-board)
@@ -54,6 +61,7 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
 * Program Committee -- CIDR
   [[2024]](https://www.cidrdb.org/cidr2024/officers.html)
   [[2025]](https://www.cidrdb.org/cidr2025/officers.html)
+  [[2026]](https://www.cidrdb.org/cidr2026/officers.html)
 * Web/Information Chair -- SIGMOD
   [[2023]](https://2023.sigmod.org/org_conference_officers.shtml)
 * Program Committee -- SMDB
@@ -65,6 +73,7 @@ Teaching Assistant [[Fall 2018]](https://15445.courses.cs.cmu.edu/fall2018/)
 * External Reviewer -- SIGMOD Demo [[2017]](http://sigmod2017.org/)
 
 #### To the University
+* UMich CSE PhD Admissions Committee -- 2025
 * UMich CSE PhD Admissions Committee -- 2024
 * UMich CSE PhD Admissions Committee -- 2023
 * CMU CSD Faculty Search Committee -- 2020

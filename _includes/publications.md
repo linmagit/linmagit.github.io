@@ -4,6 +4,7 @@
 Yichao Yuan, Advait Iyer, ***Lin Ma***, and Nishil Talati
 <br/>
 *VLDB 2025*
+[[pdf]](publications/2025.vortex.vldb.pdf)
 
 * **Scompression: Enhancing database knob tuning eﬀiciency through slice-based
 oltp workload compression**<br/>
@@ -11,6 +12,7 @@ Baoqing Cai, Yu Liu, ***Lin Ma***, Pingqi Huang, Bingcheng Lian, Ke Zhou, Jia Yu
 Cai, and Peijun Wu
 <br/>
 *VLDB 2025*
+[[pdf]](publications/2025.scompression.vldb.pdf)
 
 * **Hit the Gym: Accelerating Query Execution to efficiently Bootstrap Behavior Models for Self-Driving
 Database Management Systems**<br/>
