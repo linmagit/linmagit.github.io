@@ -5,6 +5,7 @@ Yichao Yuan, Advait Iyer, ***Lin Ma***, and Nishil Talati
 <br/>
 *VLDB 2025*
 [[pdf]](publications/2025.vortex.vldb.pdf)
+[[video]](https://www.youtube.com/watch?v=-_B1NuA0dwg)
 
 * **Scompression: Enhancing database knob tuning eﬀiciency through slice-based
 oltp workload compression**<br/>
